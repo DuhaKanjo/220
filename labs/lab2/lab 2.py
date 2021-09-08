@@ -39,5 +39,5 @@ def power():
     exponent = eval (input("enter exponent:"))
     acc = 1
     for x in range(exponent):
-        baseˆexponent =x
-    print()
+        acc*= base
+    print(acc)
