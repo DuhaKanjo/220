@@ -11,6 +11,7 @@ def sum_of_threes():
         total = total + x
     print (total)
 
+
 def multiplication_table():
     for h in range (1,11):
         for L in range (1,11):
