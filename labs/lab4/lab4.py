@@ -1,6 +1,6 @@
 """
-Name: <your name goes here – first and last>
-<ProgramName>.py
+Name: Duha Kanjo>
+lab4.py
 """
 import math
 from graphics import *
